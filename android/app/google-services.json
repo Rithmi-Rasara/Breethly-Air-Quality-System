@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17983023838",
+    "project_id": "airqualitysystem-151e4",
+    "storage_bucket": "airqualitysystem-151e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17983023838:android:20e38288ae38c83f6bb04f",
+        "android_client_info": {
+          "package_name": "com.example.cw_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnCouTo1K2C4CWeB7nTxc5G5GD9p6nGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
